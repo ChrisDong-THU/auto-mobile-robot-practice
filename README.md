@@ -2,6 +2,8 @@
 autonomous mobile robot practice based on ROS
 ## usage
 ``` shell
+catkin_make
+source ./devel/setup.bash
 roslaunch course_agv_nav nav.launch
 ```
 ## demo
